@@ -1,6 +1,6 @@
 <?php
 
-// conditional statements
+// Conditional Statements
 
 // $price = 20;
 
