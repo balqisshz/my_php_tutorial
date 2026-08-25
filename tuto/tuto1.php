@@ -1,4 +1,4 @@
-/WHY PHP/
+//WHY PHP//
 //byk platform yg still gune php(FB,YOUTUBE,etc)//
 
 //What is PHP//
