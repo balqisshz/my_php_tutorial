@@ -1,5 +1,6 @@
 <?php
 
+// Variables and Constants
 // variable ni nk store info or values or data
 // kene guna $ untuk create variable tuk php
 
