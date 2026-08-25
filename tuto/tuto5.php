@@ -1,6 +1,6 @@
 <?php
 
-// string adalah first data type in php
+// String adalah first data type in php
 
 $stringOne = 'my email is ';
 $stringTwo = 'katsuki@gmail.com';
