@@ -1,5 +1,6 @@
 <?php   //ni php tag
 
+
 //echo 'Hello, Felidae'; 
 // ni utk nk letak PHP statement
 // gune echo statement mcm cth kt atas tu
@@ -12,7 +13,7 @@
 //so lepas dh buat tag, dh blh type PHP code inside php tag tu
 
 
-?>
+?> //ni php close tag
 
 <!DOCTYPE html>
 <html>
