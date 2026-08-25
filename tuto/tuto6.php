@@ -1,5 +1,5 @@
 <?php
-
+//Numbers
 // Another data type which is integer and float
 // integer tu whole numbers
 // floats tu contain decimals
